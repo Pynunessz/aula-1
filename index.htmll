@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Studio Ghibli</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<h1>A viagem de Chihiro</h1>
+	<br>
+	<p>Chihiro e seus pais estão se mudando para uma cidade diferente. A caminho da nova casa, o pai decide pegar um atalho. Eles se deparam com uma mesa repleta de comida, embora ninguém esteja por perto. Chihiro sente o perigo, mas seus pais começam a comer. Quando anoitece, eles se transformam em porcos. Agora, apenas Chihiro pode salvá-los. </p>
+	<p>A animação de A Viagem de Chihiro é belíssima. Uma das melhores (se não a melhor) que eu presenciei em animações japonesas até hoje. Ou seja, o anime é esteticamente muito bonito. Miyazaki soube escolher uma palheta de cores muito vibrante, combinando com o que ele queria passar com o enredo.</p>
+	<p>Muitas cores leves e pasteis, mesmo em momentos mais escuros como a ida até a casa de Zeniba, no Fundo do Pântano. Miyazaki trabalhou muito com espaços abertos e amplos como a vista do alto da casa de banhos em que Chihiro vê o outro lado da cidade de onde veio ou o trajeto feito pelo trem que atravessa os trilhos aquáticos.</p>
+	<p> A quantidade de criaturas e rostos diferentes presentes em cada cena demonstra o nível da animação do estúdio. É assustador perceber que em uma cena da casa de banhos a gente consegue contar mais de 30 criaturas diferentes. A trilha sonora também é muito sutil. Compõe de maneira magistral as cenas da animação.</p>
+     <br>
+	 <br>
+	 <br>
+	<img src = "imagem.webp">
+</body>
+</html>
