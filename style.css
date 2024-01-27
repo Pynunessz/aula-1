@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(81, 128, 129);
+}
+h1 {
+    color: beige;
+    text-align: center;
+    text-decoration: underline;
+}
+h2 {
+    color: blanchedalmond;
+    text-align: left;
+}
+h3  {
+    color: beige;
+    text-align: right;
+    font-size: 15px;
+}
+hr {
+    color: antiquewhite;
+}
+p {
+    font-family: Arial;
+    font-size: 18px;
+    color: bisque;
+}
+img {
+    max-width: 60%;
+    max-height: 60%;
+}
